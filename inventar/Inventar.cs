@@ -50,7 +50,7 @@ namespace inventar
 
                     canvas.Children.Add(bis.rectic);
                 }
-
+                //ahoj
             }
         }
 
